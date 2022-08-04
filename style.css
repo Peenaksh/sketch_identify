@@ -1,0 +1,25 @@
+body {
+    background-color: cyan;
+}
+
+#score {
+    font-size: 35px;
+    margin-left: 25px;
+    float: left;
+}
+#timer {
+    font-size: 35px;
+    margin-right: 250px;
+    float: right;
+}
+p{
+    font-size: 20px;
+}
+
+#drawn {
+    font-size: 30px;
+    color: crimson;
+}
+#show_sketch{
+    float: right;
+}
